@@ -15,12 +15,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Arghavan\\PersianNumberToWords\\": "./src"
+      "NumberToWord\\PersianNumberToWords\\": "./src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Arghavan\\PersianNumberToWords\\Tests\\": "./tests"
+      "NumberToWord\\PersianNumberToWords\\Tests\\": "./tests"
     }
   },
   "scripts": {
